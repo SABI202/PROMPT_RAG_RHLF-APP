@@ -34,7 +34,7 @@ query_engine = load_query_engine()
 # UI Elements (static parts)
 with st.sidebar:
     st.write("Query Engine Chatbot")
-    st.markdown("[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)")
+    st.markdown("[View the source code](https://github.com/SABI202/PROMPT_RAG_RHLF-APP/blob/main/app.py)")
 
 st.title("💬 Query Engine Chatbot")
 st.caption("🚀 A Streamlit chatbot powered by a precomputed index")
