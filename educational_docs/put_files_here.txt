@@ -1,0 +1,3 @@
+📁 This folder is for your data files.
+
+Please place all PDFs or documents you want the model to learn from here.
