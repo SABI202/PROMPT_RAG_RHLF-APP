@@ -252,7 +252,7 @@ Finally, `print(response)` displays the result, which could be a concise summary
 <br>
 <br>
 
-### ➡️ Run the Educational Q&A App with Streamlit
+### ➡️ Run the Q&A App with Streamlit
  <div>
  <img src="https://github.com/user-attachments/assets/4f36966a-e2e7-4f6e-acf2-4869b585a1a1"  width=1000>
  </div>
